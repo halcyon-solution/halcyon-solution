@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @halcyon-solution
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Halcyon Solution Website
 
-<!---
-halcyon-solution/halcyon-solution is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Main website for Halcyon Solution
+
+## Instructions
+
+*(Requires parcel-js global install)*
+
+To setup after cloning repository:
+
+<pre><code>$ npm i</code></pre>
+
+To run dev environment:
+
+<pre><code>$ npm run dev</code></pre>
+
+To build:
+
+<pre><code>$ npm run build</code></pre>
+
+## Tech Used
+
+### Uses
+
+- HTML5
+- Sass / PostCSS
+- JS
+- Babel
+- Parcel
+
+Code formatting by Prettier & ES-Lint
